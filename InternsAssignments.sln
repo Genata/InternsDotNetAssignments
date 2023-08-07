@@ -13,10 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomatedTests", "tests\Aut
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{C83C1B9E-4BCD-4269-865A-1FD9B7A1F80A}"
 	ProjectSection(SolutionItems) = preProject
-		docs\Task 1.md = docs\Task 1.md
-		docs\Task 2.md = docs\Task 2.md
-		docs\Task 3.md = docs\Task 3.md
-		docs\Task 4.md = docs\Task 4.md
+		docs\Task_1.md = docs\Task_1.md
+		docs\Task_2.md = docs\Task_2.md
+		docs\Task_4.md = docs\Task_4.md
+		docs\Task_3.md = docs\Task_3.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{DE2A6933-393C-4EEE-9291-5F58DFAEE067}"

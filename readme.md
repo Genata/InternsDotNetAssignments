@@ -9,10 +9,10 @@ You will have to implement your solution into the src/GeneralProgramming project
 You can use the /src/dev project for experiments and development with console output
 
 Tasks:
-[Task 1](docs/Task 1.md)
-[Task 2](docs/Task 2.md)
-[Task 3](docs/Task 3.md)
-[Task 4](docs/Task 4.md)
+- [Task 1](docs/Task_1.md)
+- [Task 2](docs/Task_2.md)
+- [Task 3](docs/Task_3.md)
+- [Task 4](docs/Task_4.md)
 
 
 Good luck. 
