@@ -18,7 +18,7 @@ public class Tests_Task_3
     [InlineData(18, "Осемнадесет")]
     [InlineData(20, "Двадесет")]
     [InlineData(48, "Четиридесет и осем")]
-    [InlineData(98, "Деведесет и осем")]
+    [InlineData(98, "Деветдесет и осем")]
     [InlineData(273, "Двеста седемдесет и три")]
     [InlineData(400, "Четиристотин")]
     [InlineData(418, "Четиристотин и осемнадесет")]

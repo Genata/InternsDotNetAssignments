@@ -11,5 +11,5 @@ public class Task_4
 public class Task_4_Dto
 {
     public char Character { get; set; }
-    public char Count { get; set; }
+    public int Count { get; set; }
 }

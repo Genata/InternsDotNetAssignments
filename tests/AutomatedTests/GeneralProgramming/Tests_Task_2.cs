@@ -40,7 +40,7 @@ public class Tests_Task_2
             { 3, 4, 5 }
         };
 
-        var rs = _obj.GetMatrix(6);
+        var rs = _obj.GetMatrix(3);
 
         Assert.Equal(arr, rs);
     }
@@ -53,7 +53,7 @@ public class Tests_Task_2
             { 1 }
         };
 
-        var rs = _obj.GetMatrix(6);
+        var rs = _obj.GetMatrix(1);
 
         Assert.Equal(arr, rs);
     }
